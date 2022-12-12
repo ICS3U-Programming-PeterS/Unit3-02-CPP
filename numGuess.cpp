@@ -1,5 +1,6 @@
 // Copyright (c) 2022 Peter Sobowale All rights reserved.
 //
+// Created by:
 // This program asks the user for a random number from
 // 0 to 9 and checks if it is the correct number
 #include <iostream>
